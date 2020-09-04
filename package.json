@@ -73,7 +73,7 @@
     "buble": "^0.12.3",
     "eslint": "^5.15.1",
     "eslint-plugin-import": "^2.16.0",
-    "mithril": "^0.2.8",
+    "mithril": "^1.1.7",
     "npm-run-all": "^2.3.0",
     "pikaday": "^1.4.0",
     "promise-polyfill": "^8.1.0",
